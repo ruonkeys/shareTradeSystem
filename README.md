@@ -1,1 +1,1 @@
-## shareTradeSystem, a basic system implemented in java(uses swing package)
+shareTradeSystem, a basic system implemented in java(uses swing package)
